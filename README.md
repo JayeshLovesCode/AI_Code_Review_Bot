@@ -30,7 +30,7 @@ You must set these keys in your environment before running the tool.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 I am actively developing this project to evolve from a local tool into a fully autonomous workflow. The upcoming roadmap includes:
 
